@@ -1,6 +1,6 @@
 body {
         background-color: "black";
-        font-family: 'Greenscr', sans-serif;
+        font-family: 'GreenScreen-OAj3', sans-serif;
 }
 
 .container {
@@ -9,7 +9,7 @@ body {
 }
 
 @font-face {
-font-family: "Greenscr";
-src: url("Greenscr.ttf");
+font-family: "GreenScreen-OAj3";
+src: url("GreenScreen-OAj3.ttf");
 color: "green";
   }
